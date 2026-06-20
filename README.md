@@ -11,8 +11,13 @@ Fullstack Developer with a core focus and passion for the Backend ecosystem (aut
 ### 💻 My Workspace
 ![Workflow](https://img.shields.io/badge/Workflow-100%25%20Mobile--First-brightgreen?style=flat-square)
 
-Unlike most, my workflow is entirely built around extreme portability and maximum resource optimization. I develop using an ultra-mobile setup:
+Unlike most, my workflow is entirely built around extreme portability(for coding wherever, whenever) and maximum resource optimization:
 * **OS / Environment:** Ubuntu (via Termux + PRoot) running natively on Android.
+
+I also like to have a vanilla desktop at home:
+* **OS / Environment:** Windows 11
+
+In both cases I use:
 * **Interface & Control:** GitHub CLI (`gh`), pure Git, and terminal automation.
 
 ---
@@ -20,7 +25,8 @@ Unlike most, my workflow is entirely built around extreme portability and maximu
 ### 📐 Development Philosophy
 * ![Architecture](https://img.shields.io/badge/Architecture-Rigid%20%26%20Predictable-purple?style=flat-square) — Whether in code or database design, I heavily favor clear rules, strict typing, and structured logic where system behavior remains deterministic and predictable.
 * ![Performance](https://img.shields.io/badge/Performance-Raw%20Efficiency-red?style=flat-square) — Query optimization, continuous automation of repetitive tasks, and the elimination of operational bottlenecks.
-
+* ![Mobile](https://img.shields.io/badge/Mobile%20First-blue?style=flat-square) — All mobile dev is optimized first for mobile (it is where everyone access the internet through)
+  
 ---
 
 ### 📈 Featured Project
@@ -30,17 +36,18 @@ Unlike most, my workflow is entirely built around extreme portability and maximu
 ---
 
 ### ⚡ Trivia & Interests
-* Beyond code, I split my time between Production Engineering and classical music, performing as an oboist in orchestral presentations.
-* Heavily into fiction and fantasy built on rigid rule sets and flawless internal logic (*Hard Magic Systems*).
+* Beyond code, I split my time between Production Engineering and classical music, performing as a flutist in orchestral presentations.
+* Heavily into fiction and fantasy built on rule sets and some internal logic (*Hard and Soft Magic Systems*) PS: Yes, I like LotR.
+* I also am a hobby photographer.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,vercel,postgres,mysql,sqlite,vba,html,css,js,git,github,linux,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,vercel,postgres,mysql,sqlite,html,css,js,git,github,linux,bash)](https://skillicons.dev)
 
 ---
 
 ### 📬 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/matheus-pvds)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-p-601300122)
