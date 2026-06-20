@@ -25,7 +25,7 @@ In both cases I use:
 ### 📐 Development Philosophy
 * ![Architecture](https://img.shields.io/badge/Architecture-Rigid%20%26%20Predictable-purple?style=flat-square) — Whether in code or database design, I heavily favor clear rules, strict typing, and structured logic where system behavior remains deterministic and predictable.
 * ![Performance](https://img.shields.io/badge/Performance-Raw%20Efficiency-red?style=flat-square) — Query optimization, continuous automation of repetitive tasks, and the elimination of operational bottlenecks.
-* ![Mobile](https://img.shields.io/badge/Mobile%20First-blue?style=flat-square) — All mobile dev is optimized first for mobile (it is where everyone access the internet through)
+* ![Mobile](https://img.shields.io/badge/Internet-Mobile%20First-blue?style=flat-square) — All web development is optimized first for mobile (it is where everyone access the internet through)
   
 ---
 
