@@ -44,11 +44,7 @@ In both cases I use:
 
 ### 🛠️ Tech Stack & Tools
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell,ps,bash,git,github,vscode,vscodium,pycharm,html,css,py,flask,sklearn,selenium,postgres,sqlite,vercel&perline=5" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell,ps,bash,git,github,vscode,vscodium,pycharm,html,css,py,flask,sklearn,selenium,postgres,sqlite,vercel&perline=5)](https://skillicons.dev)
 
 ---
 
