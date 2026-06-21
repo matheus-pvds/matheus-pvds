@@ -44,7 +44,12 @@ In both cases I use:
 
 ### 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,vercel,postgres,mysql,sqlite,html,css,js,git,github,linux,bash)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell,ps,bash,git,github,vscode,vscodium,pycharm,html,css,py,flask,sklearn,selenium,postgres,sqlite,vercel&perline=5" />
+  </a>
+</p>
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell,ps,bash,git,github,vscode,vscodium,pycharm,html,css,py,flask,sklearn,selenium,postgres,sqlite,vercel&perline=5)](https://skillicons.dev)
 
 ---
 
