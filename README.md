@@ -4,7 +4,10 @@
 ![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Automation-black?style=flat-square)
 ![Industry](https://img.shields.io/badge/Industry-Public%20Sector-orange?style=flat-square)
 
-Fullstack Developer with a core focus and passion for the Backend ecosystem (automation, process efficiency, and structured data architecture). Currently dedicated to building digital solutions for the public sector and optimizing complex operational workflows.
+Fullstack Developer with a core focus and passion for the Backend ecosystem (automation, process efficiency, and structured data architecture). Currently dedicated to building digital solutions for the public sector and optimizing complex operational workflows. 
+
+![Study](https://img.shields.io/badge/Studying-Machine%20Learning-purple?style=flat-square)
+![Study](https://img.shields.io/badge/Studying-Data%20Analisys-red?style=flat-square)
 
 ---
 
